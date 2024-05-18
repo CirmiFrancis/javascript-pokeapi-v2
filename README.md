@@ -1,7 +1,7 @@
 # javascript-pokeapi-v2
 
-Consumo de la PokéApi realizada en JavaScript:
+Proyecto sencillo hecho en JavaScript. Se realiza una solicitud (fetch) a la PokéAPI para obtener información sobre los primeros 151 pokémones.
 
-1) Creo un ciclo 'for', y dentro de este, un 'fetch' donde pido los datos para posteriormente mostrarlos
-2) Obtengo los datos (id, nombre, imagen, tipo)
-3) Genero una 'card' con los datos
+En un ciclo 'for', a través de un 'fetch', solicito y obtengo los datos (id, nombre, imagen, tipo) de cada pokémon. Luego, genero una 'card' con los datos de cada uno.
+
+*La información de cada pokémon también se muestra en la consola.
